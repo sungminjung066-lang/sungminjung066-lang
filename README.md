@@ -1,13 +1,11 @@
 ![헤더이미지](assets/banner_transparent_fixed.png)
 
-[![Hits](https://hits.sh/github.com/sungminjung066-lang.svg?view=today-total&color=007ec6&labelColor=51ebc6)](https://hits.sh/github.com/sungminjung066-lang/)
+[![Hits](https://hits.sh/github.com/sungminjung066-lang.svg?view=today-total&color=FF8BB7&labelColor=FFD1E1)](https://hits.sh/github.com/sungminjung066-lang/)
 
 ### 🦾 Skills
 
 **🧑‍💻 Lang and Frameworks**
-![HTML5](https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-FF6FAE?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-E94B88?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-FFA3C7?style=for-the-badge&logo=javascript&logoColor=white)
 
 **🛠️ Infra and Tools**
-![Discord](https://img.shields.io/badge/discord-5865F2.svg?&style=for-the-badge&logo=discord&logoColor=white) ![Zoom](https://img.shields.io/badge/zoom-0B5CFF.svg?&style=for-the-badge&logo=zoom&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-C94B8A?style=for-the-badge&logo=discord&logoColor=white) ![Zoom](https://img.shields.io/badge/ZOOM-FF6FAE?style=for-the-badge&logo=zoom&logoColor=white)
