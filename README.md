@@ -5,11 +5,11 @@
 ### 🦾 Skills
 
 **🧑‍💻 Lang and Frameworks**
-![HTML5](https://img.shields.io/badge/HTML5-FF6FAE?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-E94B88?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-FFA3C7?style=for-the-badge&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-FF6FAE?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-E94B88?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-E94B88?style=for-the-badge&logo=javascript&logoColor=white)
 
 **🛠️ Infra and Tools**
 ![Discord](https://img.shields.io/badge/Discord-C94B8A?style=for-the-badge&logo=discord&logoColor=white) ![Zoom](https://img.shields.io/badge/ZOOM-FF6FAE?style=for-the-badge&logo=zoom&logoColor=white)
 
 ### 🎨 Art Tools
 
-![CLIP%20STUDIO%20PAINT](https://img.shields.io/badge/CLIP%20STUDIO%20PAINT-FFA3C7?style=for-the-badge) ![Adobe Photoshop](<https://img.shields.io/badge/Adobe%20Photoshop(Basic)-FF6FAE?style=for-the-badge&logo=adobephotoshop&logoColor=white>)
+![CLIP%20STUDIO%20PAINT](https://img.shields.io/badge/CLIP%20STUDIO%20PAINT-C94B8A?style=for-the-badge) ![Adobe Photoshop](<https://img.shields.io/badge/Adobe%20Photoshop(Basic)-FF6FAE?style=for-the-badge&logo=adobephotoshop&logoColor=white>)
