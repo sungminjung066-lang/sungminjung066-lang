@@ -12,4 +12,4 @@
 
 ### 🎨 Art Tools
 
-![CLIP%20STUDIO%20PAINT](https://img.shields.io/badge/CLIP%20STUDIO%20PAINT-FFA3C7?style=for-the-badge)
+![CLIP%20STUDIO%20PAINT](https://img.shields.io/badge/CLIP%20STUDIO%20PAINT-FFA3C7?style=for-the-badge) ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-FF6FAE?style=for-the-badge&logo=adobephotoshop&logoColor=white)
