@@ -4,11 +4,11 @@
 
 ## <img src="assets/Ella_doll.png" width="45" align="center" /> Skills
 
-### <img src="assets/button.png" width="28" align="center" /> Lang and Frameworks
+### <img src="assets/button.png" width="30" align="center" /> Lang and Frameworks
 
 ![HTML5](https://img.shields.io/badge/HTML5-FF6FAE?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-E94B88?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-E94B88?style=for-the-badge&logo=javascript&logoColor=white)
 
-### <img src="assets/button.png" width="28" align="center" /> Infra and Tools
+### <img src="assets/button.png" width="30" align="center" /> Infra and Tools
 
 ![Discord](https://img.shields.io/badge/Discord-C94B8A?style=for-the-badge&logo=discord&logoColor=white) ![Zoom](https://img.shields.io/badge/ZOOM-FF6FAE?style=for-the-badge&logo=zoom&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-FF6FAE?style=for-the-badge&logo=github&logoColor=white) ![SourceTree](https://img.shields.io/badge/SourceTree-E94B88?style=for-the-badge&logo=sourcetree&logoColor=white)
 
