@@ -2,7 +2,7 @@
 
 [![Hits](https://hits.sh/github.com/sungminjung066-lang.svg?view=today-total&color=FF8BB7&labelColor=FFD1E1)](https://hits.sh/github.com/sungminjung066-lang/)
 
-## <img src="assets/Ella_doll.png" width="40" align="center" /> Skills
+## <img src="assets/Ella_doll.png" width="45" align="center" /> Skills
 
 ### <img src="assets/button.png" width="28" align="center" /> Lang and Frameworks
 
