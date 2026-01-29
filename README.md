@@ -16,6 +16,6 @@
 
 ![CLIP%20STUDIO%20PAINT](https://img.shields.io/badge/CLIP%20STUDIO%20PAINT-C94B8A?style=for-the-badge) ![Adobe Photoshop](<https://img.shields.io/badge/Adobe%20Photoshop(Basic)-FF6FAE?style=for-the-badge&logo=adobephotoshop&logoColor=white>) ![Aseprite](https://img.shields.io/badge/Aseprite-C94B8A?style=for-the-badge)
 
-## Steam Account
+## <img src="assets/Steam_Icon.png" width="45" align="center" /> Steam Account
 
 [![Steam](https://img.shields.io/badge/Steam-d84b8a?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199158096439/)
