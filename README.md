@@ -35,3 +35,11 @@
 | 랜덤 슬롯 머신                     | https://github.com/sungminjung066-lang/random-slot-machine | https://random-slot-machine.vercel.app/   |
 | 2차 창작 기반 그림 리퀘스트 사이트 | https://github.com/sungminjung066-lang/request_site        | https://request-site-lime.vercel.app/     |
 | 메모장                             | https://github.com/sungminjung066-lang/Memo                | https://memo-app-steel.vercel.app/        |
+
+## <img src="assets/button.png" width="30" align="center" /> 기타 프로젝트
+
+| 이름              | 깃허브 링크                                        |
+| ----------------- | -------------------------------------------------- |
+| 1만 시간의 법칙   | https://github.com/sungminjung066-lang/10000hours  |
+| 랜딩 페이지       | https://github.com/sungminjung066-lang/landing     |
+| 오픈마켓 프로젝트 | https://github.com/sungminjung066-lang/open-market |
