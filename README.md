@@ -31,10 +31,10 @@
 
 ## <img src="assets/button.png" width="30" align="center" /> 그림 작업물
 
-| 이름        | 깃허브 링크                                                        |
-| ----------- | ------------------------------------------------------------------ |
-| 개인 작업물 | [깃허브 링크](https://github.com/sungminjung066-lang/eyes-of-doll) |
-| 취미 작업물 | [깃허브 링크](https://github.com/sungminjung066-lang/hobby-art)    |
+| 이름                   | 깃허브 링크                                                        |
+| ---------------------- | ------------------------------------------------------------------ |
+| 개인 작업물 [1차 창작] | [깃허브 링크](https://github.com/sungminjung066-lang/eyes-of-doll) |
+| 취미 작업물 [2차 창작] | [깃허브 링크](https://github.com/sungminjung066-lang/hobby-art)    |
 
 ## <img src="assets/button.png" width="30" align="center" /> 개인 프로젝트
 
