@@ -6,11 +6,11 @@
 
 ### <img src="assets/button.png" width="30" align="center" /> Lang and Frameworks
 
-![HTML5](https://img.shields.io/badge/HTML5-FF6FAE?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-E94B88?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-E94B88?style=for-the-badge&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-FF6FAE?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-E94B88?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-E94B88?style=for-the-badge&logo=javascript&logoColor=white) ![React](https://img.shields.io/badge/React-FF69B4?style=for-the-badge&logo=react&logoColor=white)
 
 ### <img src="assets/button.png" width="30" align="center" /> Infra and Tools
 
-![Discord](https://img.shields.io/badge/Discord-C94B8A?style=for-the-badge&logo=discord&logoColor=white) ![Zoom](https://img.shields.io/badge/ZOOM-FF6FAE?style=for-the-badge&logo=zoom&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-FF6FAE?style=for-the-badge&logo=github&logoColor=white) ![SourceTree](https://img.shields.io/badge/SourceTree-E94B88?style=for-the-badge&logo=sourcetree&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-C94B8A?style=for-the-badge&logo=discord&logoColor=white) ![Zoom](https://img.shields.io/badge/ZOOM-FF6FAE?style=for-the-badge&logo=zoom&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-FF6FAE?style=for-the-badge&logo=github&logoColor=white) ![SourceTree](https://img.shields.io/badge/SourceTree-E94B88?style=for-the-badge&logo=sourcetree&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-FF69B4?style=for-the-badge&logo=vercel&logoColor=white)
 
 ## <img src="assets/Ella_human.png" width="50" align="center" /> Art Tools
 
