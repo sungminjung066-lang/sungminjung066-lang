@@ -2,6 +2,8 @@
 
 [![Hits](https://hits.sh/github.com/sungminjung066-lang.svg?view=today-total&color=FF8BB7&labelColor=FFD1E1)](https://hits.sh/github.com/sungminjung066-lang/)
 
+---
+
 ## <img src="assets/Ella_doll.png" width="45" align="center" /> Skills
 
 ### <img src="assets/button.png" width="30" align="center" /> Lang and Frameworks
@@ -12,13 +14,19 @@
 
 ![Discord](https://img.shields.io/badge/Discord-C94B8A?style=for-the-badge&logo=discord&logoColor=white) ![Zoom](https://img.shields.io/badge/ZOOM-FF6FAE?style=for-the-badge&logo=zoom&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-FF6FAE?style=for-the-badge&logo=github&logoColor=white) ![SourceTree](https://img.shields.io/badge/SourceTree-E94B88?style=for-the-badge&logo=sourcetree&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-FF69B4?style=for-the-badge&logo=vercel&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-FF69B4?style=for-the-badge&logo=vite&logoColor=white)
 
+---
+
 ## <img src="assets/Ella_human.png" width="50" align="center" /> Art Tools
 
 ![CLIP%20STUDIO%20PAINT](https://img.shields.io/badge/CLIP%20STUDIO%20PAINT-C94B8A?style=for-the-badge) ![Adobe Photoshop](<https://img.shields.io/badge/Adobe%20Photoshop(Basic)-FF6FAE?style=for-the-badge&logo=adobephotoshop&logoColor=white>) ![Aseprite](https://img.shields.io/badge/Aseprite-C94B8A?style=for-the-badge)
 
+---
+
 ## <img src="assets/Steam_Icon.png" width="43" align="center" /> Steam Account
 
 [![Steam](https://img.shields.io/badge/Steam-d84b8a?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199158096439/)
+
+---
 
 ## <img src="assets/button.png" width="30" align="center" /> 그림 작업물
 
