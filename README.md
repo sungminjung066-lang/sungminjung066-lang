@@ -12,7 +12,8 @@
 
 ### <img src="assets/button.png" width="30" align="center" /> Infra and Tools
 
-![Discord](https://img.shields.io/badge/Discord-C94B8A?style=for-the-badge&logo=discord&logoColor=white) ![Zoom](https://img.shields.io/badge/ZOOM-FF6FAE?style=for-the-badge&logo=zoom&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-FF6FAE?style=for-the-badge&logo=github&logoColor=white) ![SourceTree](https://img.shields.io/badge/SourceTree-E94B88?style=for-the-badge&logo=sourcetree&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-FF69B4?style=for-the-badge&logo=vercel&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-FF69B4?style=for-the-badge&logo=vite&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-C94B8A?style=for-the-badge&logo=discord&logoColor=white) ![Zoom](https://img.shields.io/badge/ZOOM-FF6FAE?style=for-the-badge&logo=zoom&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-FF6FAE?style=for-the-badge&logo=github&logoColor=white) ![SourceTree](https://img.shields.io/badge/SourceTree-E94B88?style=for-the-badge&logo=sourcetree&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-FF69B4?style=for-the-badge&logo=vercel&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-FF69B4?style=for-the-badge&logo=vite&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-FF69B4?style=for-the-badge&logo=figma&logoColor=white) ![VSCode](https://img.shields.io/badge/VS_Code-FF69B4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
