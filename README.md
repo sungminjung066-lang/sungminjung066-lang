@@ -47,8 +47,8 @@
 
 ## <img src="assets/button.png" width="30" align="center" /> 기타 프로젝트
 
-| 이름              | 깃허브 링크                                                       | 배포링크                                                              |
-| ----------------- | ----------------------------------------------------------------- | --------------------------------------------------------------------- |
-| 1만 시간의 법칙   | [깃허브 링크](https://github.com/sungminjung066-lang/10000hours)  | X                                                                     |
-| 랜딩 페이지       | [깃허브 링크](https://github.com/sungminjung066-lang/landing)     | X                                                                     |
-| 오픈마켓 프로젝트 | [깃허브 링크](https://github.com/sungminjung066-lang/open-market) | [배포 링크](https://ragtag-band.github.io/open-market/web/index.html) |
+| 이름                            | 깃허브 링크                                                       | 배포링크                                                              |
+| ------------------------------- | ----------------------------------------------------------------- | --------------------------------------------------------------------- |
+| 1만 시간의 법칙                 | [깃허브 링크](https://github.com/sungminjung066-lang/10000hours)  | X                                                                     |
+| 랜딩 페이지                     | [깃허브 링크](https://github.com/sungminjung066-lang/landing)     | X                                                                     |
+| 오픈마켓 프로젝트 [팀 프로젝트] | [깃허브 링크](https://github.com/sungminjung066-lang/open-market) | [배포 링크](https://ragtag-band.github.io/open-market/web/index.html) |
