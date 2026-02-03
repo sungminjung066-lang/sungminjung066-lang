@@ -19,3 +19,19 @@
 ## <img src="assets/Steam_Icon.png" width="43" align="center" /> Steam Account
 
 [![Steam](https://img.shields.io/badge/Steam-d84b8a?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199158096439/)
+
+## <img src="assets/button.png" width="30" align="center" /> 그림 작업물
+
+| 이름        | 링크                                                |
+| ----------- | --------------------------------------------------- |
+| 개인 작업물 | https://github.com/sungminjung066-lang/eyes-of-doll |
+| 취미 작업물 | https://github.com/sungminjung066-lang/hobby-art    |
+
+## <img src="assets/button.png" width="30" align="center" /> 개인 프로젝트
+
+| 이름                               | 깃허브 링크                                                | 배포 링크                                 |
+| ---------------------------------- | ---------------------------------------------------------- | ----------------------------------------- |
+| 랜덤 룰렛                          | https://github.com/sungminjung066-lang/random-roulette     | https://random-roulette-dusky.vercel.app/ |
+| 랜덤 슬롯 머신                     | https://github.com/sungminjung066-lang/random-slot-machine | https://random-slot-machine.vercel.app/   |
+| 2차 창작 기반 그림 리퀘스트 사이트 | https://github.com/sungminjung066-lang/request_site        | https://request-site-lime.vercel.app/     |
+| 메모장                             | https://github.com/sungminjung066-lang/Memo                | https://memo-app-steel.vercel.app/        |
