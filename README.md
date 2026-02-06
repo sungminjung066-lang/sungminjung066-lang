@@ -2,6 +2,10 @@
 
 [![Hits](https://hits.sh/github.com/sungminjung066-lang.svg?view=today-total&color=FF5A4F&labelColor=FF7A6E)](https://hits.sh/github.com/sungminjung066-lang/)
 
+## 🌱잔디
+
+[![GitGarden](https://gitgarden.marshallku.dev/?user_name=sungminjung066-lang)](https://github.com/marshallku/gitgarden)
+
 ---
 
 ## <img src="assets/Ella_doll.png" width="45" align="center" /> Skills
