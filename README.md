@@ -39,8 +39,8 @@
 
 | ![이름](https://img.shields.io/badge/이름-FF7A6E?style=for-the-badge) | ![깃허브 링크](https://img.shields.io/badge/깃허브_링크-FF7A6E?style=for-the-badge) |
 | --------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| 개인 작업물 \[1차 창작\]                                              | [깃허브 링크](https://github.com/sungminjung066-lang/eyes-of-doll)                  |
-| 취미 작업물 \[2차 창작\]                                              | [깃허브 링크](https://github.com/sungminjung066-lang/hobby-art)                     |
+| 개인 작업물 [1차 창작]                                                | [깃허브 링크](https://github.com/sungminjung066-lang/eyes-of-doll)                  |
+| 취미 작업물 [2차 창작]                                                | [깃허브 링크](https://github.com/sungminjung066-lang/hobby-art)                     |
 
 ---
 
