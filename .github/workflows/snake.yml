@@ -17,8 +17,8 @@ jobs:
         with:
           github_user_name: sungminjung066-lang
           outputs: |
-            dist/snake.svg
-            dist/snake.gif
+            dist/snake.svg?color_snake=#FF5A4F&color_dots=#FFE5E1,#FFB3AA,#FF7A6E,#FF5A4F
+            dist/snake.gif?color_snake=#FF5A4F&color_dots=#FFE5E1,#FFB3AA,#FF7A6E,#FF5A4F
 
       - name: Publish
         uses: crazy-max/ghaction-github-pages@v4
