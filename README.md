@@ -37,93 +37,29 @@
 
 ## <img src="assets/button.png" width="30" align="center" /> 그림 작업물
 
-<table>
-  <thead>
-    <tr>
-      <th bgcolor="#FF7A6E"><font color="white">이름</font></th>
-      <th bgcolor="#FF7A6E"><font color="white">깃허브 링크</font></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>개인 작업물 [1차 창작]</td>
-      <td><a href="https://github.com/sungminjung066-lang/eyes-of-doll">깃허브 링크</a></td>
-    </tr>
-    <tr>
-      <td>취미 작업물 [2차 창작]</td>
-      <td><a href="https://github.com/sungminjung066-lang/hobby-art">깃허브 링크</a></td>
-    </tr>
-  </tbody>
-</table>
+| ![이름](https://img.shields.io/badge/이름-FF7A6E?style=for-the-badge) | ![깃허브 링크](https://img.shields.io/badge/깃허브_링크-FF7A6E?style=for-the-badge) |
+| --------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| 개인 작업물 \[1차 창작\]                                              | [깃허브 링크](https://github.com/sungminjung066-lang/eyes-of-doll)                  |
+| 취미 작업물 \[2차 창작\]                                              | [깃허브 링크](https://github.com/sungminjung066-lang/hobby-art)                     |
 
 ---
 
 ## <img src="assets/button.png" width="30" align="center" /> 개인 프로젝트
 
-<table>
-  <thead>
-    <tr>
-      <th bgcolor="#FF7A6E"><font color="white">이름</font></th>
-      <th bgcolor="#FF7A6E"><font color="white">깃허브 링크</font></th>
-      <th bgcolor="#FF7A6E"><font color="white">배포 링크</font></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>랜덤 룰렛</td>
-      <td><a href="https://github.com/sungminjung066-lang/random-roulette">깃허브 링크</a></td>
-      <td><a href="https://random-roulette-dusky.vercel.app/">배포 링크</a></td>
-    </tr>
-    <tr>
-      <td>랜덤 슬롯 머신</td>
-      <td><a href="https://github.com/sungminjung066-lang/random-slot-machine">깃허브 링크</a></td>
-      <td><a href="https://random-slot-machine.vercel.app/">배포 링크</a></td>
-    </tr>
-    <tr>
-      <td>2차 창작 기반 그림 리퀘스트 사이트</td>
-      <td><a href="https://github.com/sungminjung066-lang/request_site">깃허브 링크</a></td>
-      <td><a href="https://request-site-lime.vercel.app/">배포 링크</a></td>
-    </tr>
-    <tr>
-      <td>메모장</td>
-      <td><a href="https://github.com/sungminjung066-lang/Memo">깃허브 링크</a></td>
-      <td><a href="https://memo-app-steel.vercel.app/">배포 링크</a></td>
-    </tr>
-    <tr>
-      <td>타자 게임</td>
-      <td><a href="https://github.com/sungminjung066-lang/Typing-punch-game">깃허브 링크</a></td>
-      <td><a href="https://typing-punch-game.vercel.app/">배포 링크</a></td>
-    </tr>
-  </tbody>
-</table>
+| ![이름](https://img.shields.io/badge/이름-FF7A6E?style=for-the-badge) | ![깃허브 링크](https://img.shields.io/badge/깃허브_링크-FF7A6E?style=for-the-badge) | ![배포 링크](https://img.shields.io/badge/배포_링크-FF7A6E?style=for-the-badge) |
+| --------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| 랜덤 룰렛                                                             | [깃허브 링크](https://github.com/sungminjung066-lang/random-roulette)               | [배포 링크](https://random-roulette-dusky.vercel.app/)                          |
+| 랜덤 슬롯 머신                                                        | [깃허브 링크](https://github.com/sungminjung066-lang/random-slot-machine)           | [배포 링크](https://random-slot-machine.vercel.app/)                            |
+| 2차 창작 기반 그림 리퀘스트 사이트                                    | [깃허브 링크](https://github.com/sungminjung066-lang/request_site)                  | [배포 링크](https://request-site-lime.vercel.app/)                              |
+| 메모장                                                                | [깃허브 링크](https://github.com/sungminjung066-lang/Memo)                          | [배포 링크](https://memo-app-steel.vercel.app/)                                 |
+| 타자 게임                                                             | [깃허브 링크](https://github.com/sungminjung066-lang/Typing-punch-game)             | [배포 링크](https://typing-punch-game.vercel.app/)                              |
 
 ---
 
 ## <img src="assets/button.png" width="30" align="center" /> 기타 프로젝트
 
-<table>
-  <thead>
-    <tr>
-      <th bgcolor="#FF7A6E"><font color="white">이름</font></th>
-      <th bgcolor="#FF7A6E"><font color="white">깃허브 링크</font></th>
-      <th bgcolor="#FF7A6E"><font color="white">배포 링크</font></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>1만 시간의 법칙 [개별 프로젝트]</td>
-      <td><a href="https://github.com/sungminjung066-lang/10000hours">깃허브 링크</a></td>
-      <td>X</td>
-    </tr>
-    <tr>
-      <td>랜딩 페이지 [개별 프로젝트]</td>
-      <td><a href="https://github.com/sungminjung066-lang/landing">깃허브 링크</a></td>
-      <td>X</td>
-    </tr>
-    <tr>
-      <td>오픈마켓 프로젝트 [팀 프로젝트]</td>
-      <td><a href="https://github.com/sungminjung066-lang/open-market">깃허브 링크</a></td>
-      <td><a href="https://ragtag-band.github.io/open-market/web/index.html">배포 링크</a></td>
-    </tr>
-  </tbody>
-</table>
+| ![이름](https://img.shields.io/badge/이름-FF7A6E?style=for-the-badge) | ![깃허브 링크](https://img.shields.io/badge/깃허브_링크-FF7A6E?style=for-the-badge) | ![배포 링크](https://img.shields.io/badge/배포_링크-FF7A6E?style=for-the-badge) |
+| --------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| 1만 시간의 법칙 [개별 프로젝트]                                       | [깃허브 링크](https://github.com/sungminjung066-lang/10000hours)                    | -                                                                               |
+| 랜딩 페이지 [개별 프로젝트]                                           | [깃허브 링크](https://github.com/sungminjung066-lang/landing)                       | -                                                                               |
+| 오픈마켓 프로젝트 [팀 프로젝트]                                       | [깃허브 링크](https://github.com/sungminjung066-lang/open-market)                   | [배포 링크](https://ragtag-band.github.io/open-market/web/index.html)           |
