@@ -39,9 +39,9 @@
 
 <table>
   <thead>
-    <tr style="background-color:#FF7A6E; color:#ffffff;">
-      <th align="center" style="color:white;">이름</th>
-      <th align="center" style="color:white;">깃허브 링크</th>
+    <tr>
+      <th bgcolor="#FF7A6E"><font color="white">이름</font></th>
+      <th bgcolor="#FF7A6E"><font color="white">깃허브 링크</font></th>
     </tr>
   </thead>
   <tbody>
@@ -56,14 +56,16 @@
   </tbody>
 </table>
 
+---
+
 ## <img src="assets/button.png" width="30" align="center" /> 개인 프로젝트
 
 <table>
   <thead>
-    <tr style="background-color:#FF7A6E; color:#ffffff;">
-      <th align="center" style="color:white;">이름</th>
-      <th align="center" style="color:white;">깃허브 링크</th>
-      <th align="center" style="color:white;">배포 링크</th>
+    <tr>
+      <th bgcolor="#FF7A6E"><font color="white">이름</font></th>
+      <th bgcolor="#FF7A6E"><font color="white">깃허브 링크</font></th>
+      <th bgcolor="#FF7A6E"><font color="white">배포 링크</font></th>
     </tr>
   </thead>
   <tbody>
@@ -95,14 +97,16 @@
   </tbody>
 </table>
 
+---
+
 ## <img src="assets/button.png" width="30" align="center" /> 기타 프로젝트
 
 <table>
   <thead>
-    <tr style="background-color:#FF7A6E; color:#ffffff;">
-      <th align="center" style="color:white;">이름</th>
-      <th align="center" style="color:white;">깃허브 링크</th>
-      <th align="center" style="color:white;">배포링크</th>
+    <tr>
+      <th bgcolor="#FF7A6E"><font color="white">이름</font></th>
+      <th bgcolor="#FF7A6E"><font color="white">깃허브 링크</font></th>
+      <th bgcolor="#FF7A6E"><font color="white">배포 링크</font></th>
     </tr>
   </thead>
   <tbody>
