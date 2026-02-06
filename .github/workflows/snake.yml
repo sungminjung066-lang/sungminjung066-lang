@@ -18,7 +18,7 @@ jobs:
           github_user_name: sungminjung066-lang
           outputs: |
             dist/snake-light.svg?color_snake=%23FF5A4F&color_dots=%23FFE5E1,%23FFB3AA,%23FF7A6E,%23FF5A4F
-            dist/snake-dark.svg?color_snake=%23FF9A8F&color_dots=%233A2626,%236A3434,%23C95A52,%23FF9A8F
+            dist/snake-dark.svg?color_snake=%23FF7A6E&color_dots=%23161B22,%233A1F1F,%237A2B2B,%23FF7A6E
             dist/snake.gif?color_snake=%23FF5A4F&color_dots=%23FFE5E1,%23FFB3AA,%23FF7A6E,%23FF5A4F
 
       - name: Publish
