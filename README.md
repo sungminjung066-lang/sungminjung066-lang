@@ -63,3 +63,7 @@
 | 1만 시간의 법칙 [개별 프로젝트]                                       | [깃허브 링크](https://github.com/sungminjung066-lang/10000hours)                    | -                                                                               |
 | 랜딩 페이지 [개별 프로젝트]                                           | [깃허브 링크](https://github.com/sungminjung066-lang/landing)                       | -                                                                               |
 | 오픈마켓 프로젝트 [팀 프로젝트]                                       | [깃허브 링크](https://github.com/sungminjung066-lang/open-market)                   | [배포 링크](https://ragtag-band.github.io/open-market/web/index.html)           |
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{sungminjung066-lang}"/>
+</a>
