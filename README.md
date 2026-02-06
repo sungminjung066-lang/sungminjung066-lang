@@ -1,14 +1,4 @@
 ![헤더이미지](assets/banner.png)
-
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=sungminjung066-lang&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/sungminjung066-lang?pet-id=807532203635983723"
-    width="500"
-    height="120"
-  />
-</a>
-
-
 [![Hits](https://hits.sh/github.com/sungminjung066-lang.svg?view=today-total&color=FF5A4F&labelColor=FF7A6E)](https://hits.sh/github.com/sungminjung066-lang/)
 
 <picture>
@@ -73,6 +63,10 @@
 | 랜딩 페이지 [개별 프로젝트]                                           | [깃허브 링크](https://github.com/sungminjung066-lang/landing)                       | -                                                                               |
 | 오픈마켓 프로젝트 [팀 프로젝트]                                       | [깃허브 링크](https://github.com/sungminjung066-lang/open-market)                   | [배포 링크](https://ragtag-band.github.io/open-market/web/index.html)           |
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{sungminjung066-lang}"/>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=sungminjung066-lang&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/sungminjung066-lang?pet-id=807532203635983723"
+    width="500"
+    height="120"
+  />
 </a>
