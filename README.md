@@ -2,7 +2,10 @@
 
 [![Hits](https://hits.sh/github.com/sungminjung066-lang.svg?view=today-total&color=FF5A4F&labelColor=FF7A6E)](https://hits.sh/github.com/sungminjung066-lang/)
 
-![snake](https://raw.githubusercontent.com/sungminjung066-lang/sungminjung066-lang/output/snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sungminjung066-lang/sungminjung066-lang/output/snake-dark.svg?cache=1">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/sungminjung066-lang/sungminjung066-lang/output/snake-light.svg?cache=1">
+</picture>
 
 ---
 
