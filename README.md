@@ -1,4 +1,4 @@
-![헤더이미지](assets/banner_transparent_fixed.png)
+![헤더이미지](assets/banner.png)
 
 [![Hits](https://hits.sh/github.com/sungminjung066-lang.svg?view=today-total&color=FF8BB7&labelColor=FFD1E1)](https://hits.sh/github.com/sungminjung066-lang/)
 
