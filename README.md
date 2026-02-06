@@ -1,5 +1,14 @@
 ![헤더이미지](assets/banner.png)
 
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=sungminjung066-lang&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/sungminjung066-lang?pet-id=807532203635983723"
+    width="500"
+    height="120"
+  />
+</a>
+
+
 [![Hits](https://hits.sh/github.com/sungminjung066-lang.svg?view=today-total&color=FF5A4F&labelColor=FF7A6E)](https://hits.sh/github.com/sungminjung066-lang/)
 
 <picture>
