@@ -56,13 +56,14 @@
 
 ---
 
-## <img src="assets/button.png" width="30" align="center" /> 기타 프로젝트
+## <img src="assets/button.png" width="30" align="center" /> 메인 프로젝트
 
 | ![이름](https://img.shields.io/badge/이름-FF7A6E?style=for-the-badge) | ![깃허브 링크](https://img.shields.io/badge/깃허브_링크-FF7A6E?style=for-the-badge) | ![배포 링크](https://img.shields.io/badge/배포_링크-FF7A6E?style=for-the-badge) |
 | --------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
 | 1만 시간의 법칙 [개별 프로젝트]                                       | [깃허브 링크](https://github.com/sungminjung066-lang/10000hours)                    | -                                                                               |
 | 랜딩 페이지 [개별 프로젝트]                                           | [깃허브 링크](https://github.com/sungminjung066-lang/landing)                       | -                                                                               |
 | 오픈마켓 프로젝트 [팀 프로젝트]                                       | [깃허브 링크](https://github.com/sungminjung066-lang/open-market)                   | [배포 링크](https://ragtag-band.github.io/open-market/web/index.html)           |
+| 알약마켓 프로젝트 [팀 프로젝트]                                       | [깃허브 링크](https://github.com/alyac-market-4/alyac-market-4)                     | [배포 링크](https://alyac-market-4.vercel.app/feed)                             |
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=sungminjung066-lang&utm_content=line">
   <img
